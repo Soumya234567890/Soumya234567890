@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently Learning Fullstack Development **Nodejs and backend development using javascript and frameworks**
+- 🌱 I’m currently Learning Fullstack Development **Backend Development using nodejs,expressjs,api-integrations & js frameworks**
 
-- 💬 Ask me about **HTML,CSS,JS,PYTHON,C++,Nodejs**
+- 💬 Ask me about **HTML,CSS,JS,Reactjs,C++,Nodejs,Gen AI,Python,DSA**
 
 - 📫 How to reach me **soumyakantaparida34@gmail.com**
 
