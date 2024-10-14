@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?=ryo-ma)](https://github.com/https://github.com/Soumya234567890ryo-ma/github-profile-trophy)
 <h1 align="center">Hi 👋, I'm Soumyakanta Parida</h1>
 <h3 align="center">A passionate Web developer And a Programmer</h3>
 <img align="right" alt="coding" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif"/>
