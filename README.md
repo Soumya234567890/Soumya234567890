@@ -11,6 +11,7 @@
 - 🌱 I’m currently Learning Fullstack Development **using nodejs,expressjs,api-integrations & Reactjs,vuejs,nextjs**
 
 - 💬 Ask me about **HTML,CSS,JS,Reactjs,C++,Nodejs,Gen AI,Python,DSA**
+- **You can ask me About Microsoft SQL Server**
 
 - 📫 How to reach me **soumyakantaparida34@gmail.com**
 
