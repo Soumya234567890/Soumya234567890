@@ -14,6 +14,8 @@
 - **You can ask me About Microsoft SQL Server**
 
 - 📫 How to reach me **soumyakantaparida34@gmail.com**
+- 📘 [LeetCode Profile](https://leetcode.com/u/Soumyakantaparida09012005/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
